@@ -1,0 +1,1 @@
+# fast_api_simple_posts_crud
